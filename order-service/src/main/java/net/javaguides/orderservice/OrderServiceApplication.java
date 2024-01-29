@@ -10,4 +10,6 @@ public class OrderServiceApplication {
 		SpringApplication.run(OrderServiceApplication.class, args);
 	}
 
+	// remember to start the zookeeper and the server first in order to be able to see the orders in stock and email service logs
+
 }
