@@ -12,5 +12,6 @@ public class OrderServiceApplication {
 
 	// remember to start the zookeeper and the server first in order to be able to see the orders in stock and email service logs
 	// another comment added
+	// extra test
 
 }
